@@ -32,41 +32,13 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
 ## 📂 Project Structure
 ```text
 Rivo/
-├── .gitattributes
-├── .gitignore
-├── .vercel
-│   ├── project.json
-│   └── README.txt
-├── assets
-│   └── footer.png
-├── font
-│   └── termina-test
-│       ├── TerminaTest-Black.otf
-│       ├── TerminaTest-Bold.otf
-│       ├── TerminaTest-Demi.otf
-│       ├── TerminaTest-ExtraLight.otf
-│       ├── TerminaTest-Heavy.otf
-│       ├── TerminaTest-Light.otf
-│       ├── TerminaTest-Medium.otf
-│       ├── TerminaTest-Regular.otf
-│       └── TerminaTest-Thin.otf
-├── img
-│   ├── 1.jpg
-│   ├── 2.jpg
-│   ├── 3.jpg
-│   ├── 4.jpg
-│   ├── 5.jpg
-│   ├── 6.jpg
-│   ├── arrow.svg
-│   └── star.svg
-├── index.html
-├── js
-│   └── js.js
-├── README.md
-├── site.webmanifest
-└── style
-    ├── normalize.css
-    └── style.css
+├── .vercel/
+├── assets/
+├── font/
+│   └── termina-test/
+├── img/
+├── js/
+└── style/
 ```
 
 ## 💻 Tech Stack
