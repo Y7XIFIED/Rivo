@@ -30,16 +30,21 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
    ```
 
 ## 📂 Project Structure
-```text
-Rivo/
-├── .vercel/
-├── assets/
-├── font/
-│   └── termina-test/
-├── img/
-├── js/
-└── style/
-```
+
+- 📁 **.vercel/**
+- 📁 **assets/**
+- 📁 **components/**
+- 📁 **font/**
+- 📁 **img/**
+- 📁 **js/**
+- 📁 **scripts/**
+- 📁 **style/**
+- 📁 **styles/**
+- 📄 `.gitattributes`
+- 📄 `.gitignore`
+- 📄 `index.html`
+- 📄 `README.md`
+- 📄 `site.webmanifest`
 
 ## 💻 Tech Stack
 HTML5 & CSS3: Structural vectors and custom styling variables.
